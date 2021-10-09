@@ -121,9 +121,7 @@ body {
     transition: backgrounnd-color 200ms ease-in-out;
 }
 
-.pricing-button:hover, .pricing-button:focus {
-    background-color: #e1f1ff;
-}
+
 
 .pricing-button.is-featured {
     background-color: #48aaff;
